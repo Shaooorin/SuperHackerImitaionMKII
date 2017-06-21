@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\PostEffectsCRT.shader">
+    <Files>
+      <File FileName="Assets\PostEffectsCRT.shader" Line="15" Column="12" />
+      <File FileName="Assets\Scripts\MapSelecter.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\StringUtils.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MessageA.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MessageB.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LowResolutionCamera.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MessageC.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BarGraph.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CircleText.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BarGraphB.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
